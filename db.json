@@ -44,6 +44,15 @@
       "contact_email": "jwade@codewrit.com",
       "acquired_on": "2020-04-03",
       "customer_status": "active"
+    },
+    {
+      "id": 6,
+      "company_name": "Ricardo SA",
+      "contact_firstname": "Ricardo",
+      "contact_lastname": "FN",
+      "contact_email": "ricardo@pruebas.com",
+      "acquired_on": "2024-03-04",
+      "customer_status": "active"
     }
   ]
 }
